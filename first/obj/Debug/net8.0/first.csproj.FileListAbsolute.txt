@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework_les5\first\bin\Debug\net8.0\first.exe
+C:\Users\User\Desktop\Homework_les5\first\bin\Debug\net8.0\first.deps.json
+C:\Users\User\Desktop\Homework_les5\first\bin\Debug\net8.0\first.runtimeconfig.json
+C:\Users\User\Desktop\Homework_les5\first\bin\Debug\net8.0\first.dll
+C:\Users\User\Desktop\Homework_les5\first\bin\Debug\net8.0\first.pdb
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.dll
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\refint\first.dll
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.pdb
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\first.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework_les5\first\obj\Debug\net8.0\ref\first.dll

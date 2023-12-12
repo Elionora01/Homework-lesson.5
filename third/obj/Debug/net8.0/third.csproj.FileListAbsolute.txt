@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homework_les5\third\bin\Debug\net8.0\third.exe
+C:\Users\User\Desktop\Homework_les5\third\bin\Debug\net8.0\third.deps.json
+C:\Users\User\Desktop\Homework_les5\third\bin\Debug\net8.0\third.runtimeconfig.json
+C:\Users\User\Desktop\Homework_les5\third\bin\Debug\net8.0\third.dll
+C:\Users\User\Desktop\Homework_les5\third\bin\Debug\net8.0\third.pdb
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.dll
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\refint\third.dll
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.pdb
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\third.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework_les5\third\obj\Debug\net8.0\ref\third.dll
